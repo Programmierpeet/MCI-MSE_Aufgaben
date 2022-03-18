@@ -36,19 +36,19 @@ Aus diesem muss die Herzrate bestimmt werden.
 
 ### Assumptions and dependencies
 
-...
+Bis zur Vervollständigung der Software kann es einige Zeit dauern, jedoch nicht länger als bis Juli 2022. Ausschlaggebend hierfür werden die einzuhaltenden Fristen der Professoren sein. Abgesehen von fristen, werden die Entwickler der Software aber kein zur Verfügung stehendes Budget haben.
 
 ### Design and implementation constraints
 
-...
+Die Visualisierung der Daten der Probanten soll so präzis wie möglich sein, sodass es nicht zu Fehldiagnostiken kommen kann, welche der Software vorzuwerfen sind. Das Interface soll schlicht gestaltet werden und nur die wichtigsten Informationen wiedergeben.
 
 ## Risks
 
-...
+Da die Entwicklung der Software noch nicht im Gange ist, sind derer möglichen Fehler noch unbekannt. Fehlerquellen können aber natürlich Software, Hardware , oder auch der Nutzer sein. Zum Beispiel könnte der Nutzer die Elektroden am Körper falsch befestigen oder seine Hände vom Sensor am "Lenker" des Ergometers nehmen, sodass der Puls gar nicht, oder falsch gemessen wird.
 
 ## Known future enhancements
 
-...
+Die Farbpalette der Grafik soll veränderbar sein, sodass diese der Farbe des jeweiligen Ergometers angepasst werden kann. Die Software könnte auf andere Diagnostiken wie beispielsweise dem Laktatwert im Blut erweitert werden, um die Anaerobe Schwelle eines Probanten messen zu können.
 
 ## References
 
@@ -56,4 +56,4 @@ Aus diesem muss die Herzrate bestimmt werden.
 
 ## Open, unresolved or TBD issues
 
-...
+Vor dem Start des Projekt gibt es keine wirklichen Probleme, diese werden aber bestimmt auftreten. Zu Erledigen gilt der Download von Visual Studios und die Verfollständigung dieser Abgabe bis Sonntag.
