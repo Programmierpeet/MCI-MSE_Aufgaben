@@ -15,7 +15,7 @@ Die Software umfasst eine Leistungsdiagnostik von EKG-Daten der Patient/innen du
 ## Perspectives
 ### Who will use the system?
 
-Daten können von Athleten zur privaten Leistungsverbesserung genutzt werden. Zudem können in Studien Diagnostiker eingesetzt werden, um eine präzise Leistungsdiagnostik von Probanden zu erstellen.
+Daten können von Athleten zur privaten Leistungsverbesserung genutzt, oder in Studien von Diagnostikern eingesetzt werden, um eine präzise Leistungsdiagnostik von Probanden zu erstellen. Weiters wird es auch möglich sein, die Software im Medizinbereich von Ärzten und Patienten genutzt zu werden, um beispielsweise Herzkrankheiten zu erkennen.
 
 ### Who can provide input about the system?
 
