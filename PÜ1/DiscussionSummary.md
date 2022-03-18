@@ -2,7 +2,7 @@
 
 ### Purpose of project
 
-Übersichtliche und präzise Visualisierung der Daten um eine umfassende Leistungsdiagnostik erstellen zu können. Zuverlässige Datenlieferung zu allen Zeitpunkten soll gewährleistet werden.
+Übersichtliche und präzise Visualisierung der Daten um eine umfassende Leistungsdiagnostik erstellen zu können. Eine zuverlässige Datenlieferung zu allen Zeitpunkten soll gewährleistet werden. Die Software sollte möglichst einfach zu bedienen sein. 
 
 ### Scope of project
 
