@@ -1,7 +1,7 @@
 # Leistungsdiagnostik
 **(kurze Beschreibung des Ziels)**
 
-Ergometerbasierte Leistungsdiagnostik-Software von EKG-Daten der Patient:Innen durch Analyse und Visualisierung, an einem bereits bestehenden Ergometer.
+Die Software umfasst eine Leistungsdiagnostik von EKG-Daten der Patient/innen durch Analyse und Visualisierung, an einem bereits bestehenden Ergometer. Der Puls wird über einen Zeitraum von drei Minuten erfasst und gespeichert. Zudem werden Daten wie Name, eine technische ID und Geburtsdatum vermerkt. 
 
 ## Installation
 
