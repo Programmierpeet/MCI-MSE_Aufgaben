@@ -25,7 +25,7 @@ Diagnostiker, welche bereits Erfahrung in der Leistungsdiagnostik besitzen und t
 ## Project Objectives
 ### Known business rules
 
-...
+Namen des Nutzers, seine technische ID, sowie Geburtsdatum werden gespeichert. Diese Daten werden auch verarbeitet werden. 
 
 ### System information and/or diagrams
 
