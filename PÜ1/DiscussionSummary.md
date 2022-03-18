@@ -19,7 +19,7 @@ Daten können von Athleten zur privaten Leistungsverbesserung genutzt, oder in S
 
 ### Who can provide input about the system?
 
-Diagnostiker, welche bereits Erfahrung in der Leistungsdiagnostik besitzen und täglich damit arbeiten. Auch können wissbegierige Athleten ihrten Beitrag leisten. Zudem kann die Fachexpertise von Julian Huber herangezogen werden.
+Diagnostiker, welche bereits Erfahrung in der Leistungsdiagnostik besitzen und täglich damit arbeiten. Auch können wissbegierige Athleten ihrten Beitrag leisten. Zudem kann die Fachexpertise von Julian Huber oder Yunus Schmierander herangezogen werden.
 
 
 ## Project Objectives
