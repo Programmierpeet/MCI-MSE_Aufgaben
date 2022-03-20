@@ -10,7 +10,7 @@ Die Software umfasst eine Leistungsdiagnostik von EKG-Daten der Patient/innen du
 
 ### Other background information
 
-...
+Eine Überprüfung auf das eingestellte Abbruchkriterium wird durch eine Analyse der Daten stets gewährleistet. Sollte es dennoch zu Problemen kommen, ist auch ein manueller Abbruch des Tests jederzeit möglich. Um einen versehentlichen Abbruch zu vermeiden werden die Daten stets bis zur Bestätigung des Abbruchs gespeichert. Erst nach dieser Bestätigung wird der Test als "abgebrochen" gewertet.
 
 ## Perspectives
 ### Who will use the system?
