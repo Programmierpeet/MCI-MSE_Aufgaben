@@ -3,9 +3,10 @@
 
 #%% UC 2.1 Einlesen der Daten
 ## Einlesen der CSV-Files 'ecg_data_subject_i.csv' (i=1-3)
+## Einlesen der dazugehörigen txt & json Files für Patientenzuordnung
 
 #%% UC 2.2 Vorverarbeiten der Daten
-## Anpassung der Daten vom CSV-File falls nötig bei zB Fehlmessungen.
+## Anpassung und Zusammenführung der Daten.
 ## Vorverarbeitung der Daten aus dem CSV-File zur Visualisierung
 
 #%% UC 2.3 Analysieren der Daten auf Abbruchkriterium
