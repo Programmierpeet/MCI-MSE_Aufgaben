@@ -36,7 +36,8 @@ Aus diesem muss die Herzrate bestimmt werden.
 
 ### Assumptions and dependencies
 
-Bis zur Vervollständigung der Software kann es einige Zeit dauern, jedoch nicht länger als bis Juli 2022. Ausschlaggebend hierfür werden die einzuhaltenden Fristen der Professoren sein. Abgesehen von Fristen, werden die Entwickler der Software aber kein zur Verfügung stehendes Budget haben.
+Als Input-Data wurden drei verschiedene Datensäzte für jeweils drei verschiedene Personen generiert. Der erste Datensatz trägt den Namen "ecg_data_subject_#Nummer.csv" und lässt durch den Namen darauf schließen, dass es sich wahrscheinlich um die Daten des Elektrokardiogrammes handelt. Die Datei enthält jeweils 180`000 Daten, wobei diese meist aus einen Zahlenwert von -1 bis +1 bestehen.
+Der zweite Datensatz trägt den Namen 
 
 ### Design and implementation constraints
 
