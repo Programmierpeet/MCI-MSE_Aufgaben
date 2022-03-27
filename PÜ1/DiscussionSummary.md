@@ -37,7 +37,8 @@ Aus diesem muss die Herzrate bestimmt werden.
 ### Assumptions and dependencies
 
 Als Input-Data wurden drei verschiedene Datensäzte für jeweils drei verschiedene Personen generiert. Der erste Datensatz trägt den Namen "ecg_data_subject_#Nummer.csv" und lässt durch den Namen darauf schließen, dass es sich wahrscheinlich um die Daten des Elektrokardiogrammes handelt. Die Datei enthält jeweils 180`000 Daten, wobei diese meist aus einen Zahlenwert von -1 bis +1 bestehen.
-Der zweite Datensatz trägt den Namen 
+Der zweite Datensatz trägt den Namen "power_data_#Nummer.txt" und besteht jeweils aus 180 Werten. Diese Werte beschreiben wahrscheinlich die von den Personen generierten Watt während des Tests. Die erste Person brachte im Durchschnitt 100 Watt zusammen, die Zweite 200 und die Dritte 300.
+Als letzten Datensatz, mit dem Namen "subject_#Nummer.json", wurden generelle Informationen zu den Personen bereitgestellt. Diese umfassen ihre ID-Nummer, deren generierte Watt, Geburtsjahr und die Dauer des Testlaufs.
 
 ### Design and implementation constraints
 
