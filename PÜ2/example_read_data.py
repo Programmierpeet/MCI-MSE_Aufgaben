@@ -8,7 +8,7 @@ def open_convert_plot():
         file_name =  ('input_data/power_data_{0}.txt'.format(i))
         power_data_watts = open(file_name).read().split("\n")
         x = np.array(power_data_watts)
-        plt.title("Line graph {0}".format(i))
+        plt.title("Line graph {0}".format(i))  # Gut gelöst
         plt.plot(x, color="red")
         plt.show()
 
@@ -17,3 +17,4 @@ def open_convert_plot():
 open_convert_plot()
 
 
+# Bewertung: Gute Lösung, vor allem mit der Idee direkt eine Funktion zu erstellen. For-Schleife jedoch nächstes mal außerhalb platzieren.
