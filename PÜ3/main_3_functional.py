@@ -2,7 +2,7 @@
 
 #%% UC 2.1 Einlesen der Daten
 
-#Zuerst alle benötigten Bibliotheken importieren
+#Alle benötigten Bibliotheken importieren
 import os
 import numpy as np
 import pandas as pd
