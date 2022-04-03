@@ -141,7 +141,7 @@ def search_dir():
     return results_file
 
 results_file = search_dir()
-#Pfad geöffnet und als utf-8 encoded
+#Pfad geöffnet und als 'utf-8' encoded
 with open(results_file, 'w', encoding='utf-8') as f:
     #json data abgespeichert
     json.dump(json_data_to_save, f, ensure_ascii=False, indent=4)
