@@ -128,7 +128,7 @@ manual_termination = manueller_abbruch()
 #%% UC 2.7 Speichern der Daten
 
 
-# Speichern der Daten
+# Speichern der Daten.
 data = {"User ID": subject_data["subject_id"], "Reason for test termation": manual_termination, "Average Heart Rate": average_hr_test, "Maximum Heart Rate": subject_max_hr, "Test Length (s)": len(power_data_watts), "Test Power (W)": subject_data["test_power_w"], "Average Power": peaks_downsampled["Power (Watt)"].mean()}
 #to be saved data
 json_data_to_save = json.dumps(data)
