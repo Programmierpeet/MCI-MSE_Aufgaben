@@ -146,3 +146,5 @@ with open(results_file, 'w', encoding='utf-8') as f:
     #json data abgespeichert
     json.dump(json_data_to_save, f, ensure_ascii=False, indent=4)
 # %%
+
+# Bewertung: Solide Arbeit! Für nächstes mal bitte nochmal Docstrings ansehen, dort können gerne mehr Angaben wie Input / Return Informationen gemacht werden
